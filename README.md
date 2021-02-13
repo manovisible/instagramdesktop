@@ -20,4 +20,4 @@ You can download Instagram Desktop [**here**](https://github.com/manovisible/ins
 
 # Important
 
-Instagram Desktop in not affiliated or endorsed by Instagram. Instagram Desktop is a non-profit project created to make everyones live easier!
+Instagram Desktop in not affiliated or endorsed by Instagram. Instagram Desktop is a non-profit project created to make everyones life easier!
