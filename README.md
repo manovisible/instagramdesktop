@@ -6,7 +6,7 @@ The best Instagram desktop client.
 
 Instagram Desktop is the **OFFICIAL** Instagram you use on your browser. You won't need to login in any (possibly fradulent) programs.
 
-## No watermarks in your posts!
+## No watermarks on your posts!
 
 If you post something via Instagram Desktop, we won't add any ads or watermarks to it.
 
