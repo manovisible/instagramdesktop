@@ -16,7 +16,7 @@ We made improvements to the app, so your experience is even better. Stories and 
 
 # Download
 
-You can download Instagram Desktop [**here**](https://github.com/manovisible/instagramdesktop/releases/download/v1.0/InstagramDesktopSetup.exe).
+You can download Instagram Desktop [**here**](https://github.com/manovisible/instagramdesktop/releases/download/v1.1/InstagramDesktopSetup.exe).
 
 # Important
 
